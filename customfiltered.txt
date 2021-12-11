@@ -1,0 +1,23 @@
+
+# Title: J-dogcoder/pihole-lists/customfiltered
+#
+# This hosts file is a personilized pihole allowlist
+#
+# Date: 11 December 2021 02:38:18 (UTC)
+# Number of unique domains: 9
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/j-dogcoder/pihole-lists/master/customfiltered.txt
+# Project home page: https://github.com/j-dogcoder/pihole-lists
+# Project releases: https://github.com/j-dogcoder/pihole-lists/releases
+#
+# ===============================================================
+
+yt3.ggpht.com
+promo.vador.com
+googleapis.com
+cc-api-data.adobe.io
+f-log-extension.grammarly.io
+googleadservices.com
+treatment.grammarly.com
+metrics.icloud.com
+iadsdk.apple.com
