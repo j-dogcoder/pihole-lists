@@ -1,0 +1,15 @@
+# Title: J-dogcoder/pihole-lists/whitelist
+#
+# This hosts file is a personilized pihole allowlist
+#
+# Date: 11 December 2021 02:38:18 (UTC)
+# Number of unique domains: 2
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/j-dogcoder/pihole-lists/master/whitelist.txt
+# Project home page: https://github.com/j-dogcoder/pihole-lists
+# Project releases: https://github.com/j-dogcoder/pihole-lists/releases
+#
+# ===============================================================
+
+go.pardot.com
+moneroocean.stream
