@@ -21,3 +21,4 @@ googleadservices.com
 treatment.grammarly.com
 metrics.icloud.com
 iadsdk.apple.com
+beacon.shazam.com
