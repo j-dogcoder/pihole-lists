@@ -3,8 +3,8 @@
 #
 # This hosts file is a personilized pihole allowlist
 #
-# Date: 11 December 2021 02:38:18 (UTC)
-# Number of unique domains: 9
+# Date: 12 December 2021
+# Number of unique domains: 10
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/j-dogcoder/pihole-lists/master/customfiltered.txt
 # Project home page: https://github.com/j-dogcoder/pihole-lists
