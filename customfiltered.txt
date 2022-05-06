@@ -19,11 +19,4 @@ cc-api-data.adobe.io
 f-log-extension.grammarly.io
 googleadservices.com
 treatment.grammarly.com
-metrics.icloud.com
-iadsdk.apple.com
 beacon.shazam.com
-pwlezrbc-ccd-testing-v4.metric.gstatic.com	
-qewuqhzy-ccd-testing-v4.metric.gstatic.com	
-ocsp.digicert.com
-ybmdqjnq-ccd-testing-v4.metric.gstatic.com
-e1329.g.akamaiedge.net
