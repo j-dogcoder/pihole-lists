@@ -1,14 +1,14 @@
 
-# Title: J-dogcoder/pihole-lists/customfiltered
+# Title: jaspermayone/pihole/customfiltered
 #
 # This hosts file is a personilized pihole allowlist
 #
 # Date: 12 December 2021
 # Number of unique domains: 10
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/j-dogcoder/pihole-lists/master/customfiltered.txt
-# Project home page: https://github.com/j-dogcoder/pihole-lists
-# Project releases: https://github.com/j-dogcoder/pihole-lists/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/jaspermayone/pihole/main/customfiltered.txt
+# Project home page: https://github.com/jaspermayone/pihole
+# Project releases: https://github.com/jaspermayone/pihole/releases
 #
 # ===============================================================
 
