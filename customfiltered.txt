@@ -33,3 +33,4 @@ usc.adserver.snapads.com
 use.adserver.snapads.com
 snapads.com
 us-east1-aws.api.snapchat.com
+signal.pod5.avatar.ext.hp.com	
